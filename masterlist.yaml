@@ -13348,3 +13348,7 @@ plugins:
     url: [ 'https://www.nexusmods.com/skyrimspecialedition/mods/27831' ]
     after:
       - 'Obsidian In Cathedral.esp'
+  - name: 'SoS_Cathedral_Patch.esp'
+    url: [ 'https://www.nexusmods.com/skyrimspecialedition/mods/8286' ]
+    after:
+      - 'Obsidian In Cathedral.esp'
